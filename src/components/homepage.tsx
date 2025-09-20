@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './Homepage.css';
+import './homepage.css';
 import { ChevronLeft, ChevronRight, Heart, Zap, Circle, Cloud } from 'lucide-react';
 
 type CyclePhase = 'menstrual' | 'follicular' | 'ovulatory' | 'luteal' | 'unknown';
